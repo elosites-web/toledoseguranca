@@ -27,7 +27,7 @@ O protótipo inclui:
 - Favicon da caveira
 
 ## Importante
-O formulário de candidatura ainda não possui backend de envio. Na etapa de produção, conectar o formulário a um serviço/backend de envio de e-mail e revisar a Política de Privacidade/LGPD.
+O formulário de candidatura não possui backend de envio: os dados são encaminhados pelo WhatsApp e o currículo é anexado diretamente na conversa. Na etapa de produção, revisar a Política de Privacidade/LGPD.
 
 O bloco "Solicite orçamento" não armazena dados: apenas monta a mensagem e direciona para o WhatsApp.
 

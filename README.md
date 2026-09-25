@@ -19,7 +19,7 @@ O protótipo inclui:
 - Empresas atendidas (nomes autorizados)
 - Como funciona
 - Trabalhe conosco
-- Formulário de candidatura com upload de currículo (interface/protótipo)
+- Formulário de candidatura (dados enviados pelo WhatsApp; o currículo é anexado na conversa)
 - FAQ
 - Solicite orçamento (preenche os dados e abre o WhatsApp)
 - Contato completo (WhatsApp, e-mail, Instagram, endereço e horário)

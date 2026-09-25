@@ -10,7 +10,7 @@ export type ServiceKey =
   | 'Controle de acesso'
   | 'Portaria'
   | 'Segurança patrimonial'
-  | 'Ronda preventiva'
+  | 'Rondas preventivas'
   | 'Estabelecimentos comerciais'
   | 'Festas particulares'
   | 'Shows'
@@ -48,7 +48,7 @@ export const serviceMessages: Record<ServiceKey, string> = {
     'Olá, Toledo Segurança! 👋\n\nGostaria de um orçamento de *serviço de portaria*. 👮\n\nQuero entender o controle de entradas e saídas, o recebimento de visitantes e o apoio à rotina do local.\n\nPodem me orientar sobre disponibilidade e valores? 🛡️',
   'Segurança patrimonial':
     'Olá, Toledo Segurança! 👋\n\nGostaria de um orçamento de *segurança patrimonial*. 🛡️\n\nBusco uma atuação preventiva para proteger o patrimônio do meu espaço, com presença e foco na prevenção.\n\nPodem me orientar sobre a melhor solução e valores?',
-  'Ronda preventiva':
+  'Rondas preventivas':
     'Olá, Toledo Segurança! 👋\n\nGostaria de um orçamento de *rondas preventivas*. 🛡️\n\nQuero entender a cobertura de rondas a pé e motorizadas para o meu local e a melhor periodicidade.\n\nPodem me orientar sobre disponibilidade e valores?',
   'Estabelecimentos comerciais':
     'Olá, Toledo Segurança! 👋\n\nGostaria de um orçamento de *segurança para meu estabelecimento comercial*. 🏢\n\nPreciso de orientação sobre controle de acesso e prevenção para lojas, empresas e comércios.\n\nPodem me ajudar com a melhor solução e valores? 🛡️',

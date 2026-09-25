@@ -148,7 +148,7 @@ const services: Service[] = [
   },
   {
     icon: Route,
-    title: 'Ronda preventiva',
+    title: 'Rondas preventivas',
     text: 'Presença preventiva constante, com rondas táticas a pé e motorizadas em motocicletas equipadas.',
     image: secRondaMoto,
     tag: 'Ronda Motorizada',

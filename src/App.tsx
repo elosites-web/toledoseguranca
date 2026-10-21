@@ -8,7 +8,7 @@ import {
 import { WhatsAppIcon } from './components/WhatsAppIcon'
 import { PrivacyPolicyModal } from './components/PrivacyPolicyModal'
 import {
-  buildCareerMessage, buildQuoteMessage, eloSitesWaLink, serviceMessages, waLink, waMessages,
+  buildCareerMessage, buildQuoteMessage, serviceMessages, waLink, waMessages,
   type CareerData, type ServiceKey,
 } from './whatsapp'
 import secEventos from './assets/images/sec_eventos_1790230004814.jpg'
@@ -1561,10 +1561,10 @@ function App() {
           <span>Criado e desenvolvido por</span>
           <a
             className="footer-credit-link"
-            href={eloSitesWaLink(waMessages.eloSites)}
+            href="https://elosites.ia.br"
             target="_blank"
             rel="noreferrer"
-            aria-label="Falar com a Elo Sites pelo WhatsApp"
+            aria-label="Visitar o site da Elo Sites"
           >
             <img src="/assets/brand/elo-sites-logo.png" alt="Elo Sites" width="1536" height="382" decoding="async" />
           </a>

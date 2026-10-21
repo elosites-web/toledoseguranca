@@ -135,7 +135,7 @@ export function PrivacyPolicyModal({ isOpen, onClose }: PrivacyPolicyModalProps)
               </div>
               <div className="privacy-info-row">
                 <span className="privacy-info-label">CNPJ:</span>
-                <span className="privacy-info-val">28.531.574/0001-42</span>
+                <span className="privacy-info-val">53.143.382/0001-79</span>
               </div>
               <div className="privacy-info-row">
                 <span className="privacy-info-label">Endereço:</span>

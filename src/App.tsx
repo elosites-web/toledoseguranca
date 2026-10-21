@@ -1544,7 +1544,7 @@ function App() {
           <a className="instagram" href="https://www.instagram.com/toledoseguranca4/" target="_blank" rel="noreferrer" aria-label="Instagram da Toledo Segurança"><Instagram /></a>
         </div>
         <div className="footer-bottom">
-          <span>Toledo Eventos LTDA · CNPJ 28.531.574/0001-42</span>
+          <span>Toledo Eventos LTDA · CNPJ 53.143.382/0001-79</span>
           <span>Rua José do Patrocínio, 134, Centro — Jundiaí/SP</span>
           <button
             type="button"
